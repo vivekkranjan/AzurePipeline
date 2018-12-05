@@ -1,2 +1,0 @@
-# AzurePipeline
-Test azure pipeline
