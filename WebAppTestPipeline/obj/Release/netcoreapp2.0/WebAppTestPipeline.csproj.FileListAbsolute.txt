@@ -1,0 +1,11 @@
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\bin\Release\netcoreapp2.0\WebAppTestPipeline.deps.json
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\bin\Release\netcoreapp2.0\WebAppTestPipeline.runtimeconfig.json
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\bin\Release\netcoreapp2.0\WebAppTestPipeline.runtimeconfig.dev.json
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\bin\Release\netcoreapp2.0\WebAppTestPipeline.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\bin\Release\netcoreapp2.0\WebAppTestPipeline.pdb
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\obj\Release\netcoreapp2.0\WebAppTestPipeline.csprojAssemblyReference.cache
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\obj\Release\netcoreapp2.0\WebAppTestPipeline.csproj.CoreCompileInputs.cache
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\obj\Release\netcoreapp2.0\WebAppTestPipeline.AssemblyInfoInputs.cache
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\obj\Release\netcoreapp2.0\WebAppTestPipeline.AssemblyInfo.cs
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\obj\Release\netcoreapp2.0\WebAppTestPipeline.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\obj\Release\netcoreapp2.0\WebAppTestPipeline.pdb
