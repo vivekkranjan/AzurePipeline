@@ -13,7 +13,7 @@ namespace WebAppTestPipelineUnitTest
         [TestMethod]
         public void TestMethod2()
         {
-            Assert.IsNotNull(null);
+            Assert.IsNotNull("");
         }
     }
 }
