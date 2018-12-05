@@ -1,0 +1,13 @@
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\Release\netcoreapp2.1\WebAppTestPipelineUnitTest.deps.json
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\Release\netcoreapp2.1\WebAppTestPipelineUnitTest.runtimeconfig.json
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\Release\netcoreapp2.1\WebAppTestPipelineUnitTest.runtimeconfig.dev.json
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\Release\netcoreapp2.1\WebAppTestPipelineUnitTest.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\Release\netcoreapp2.1\WebAppTestPipelineUnitTest.pdb
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\obj\Release\netcoreapp2.1\WebAppTestPipelineUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\obj\Release\netcoreapp2.1\WebAppTestPipelineUnitTest.AssemblyInfoInputs.cache
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\obj\Release\netcoreapp2.1\WebAppTestPipelineUnitTest.AssemblyInfo.cs
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\obj\Release\netcoreapp2.1\WebAppTestPipelineUnitTest.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\obj\Release\netcoreapp2.1\WebAppTestPipelineUnitTest.pdb
