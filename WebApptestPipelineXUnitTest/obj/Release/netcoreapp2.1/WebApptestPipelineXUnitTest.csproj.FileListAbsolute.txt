@@ -11,3 +11,4 @@ C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\obj
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\obj\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.AssemblyInfo.cs
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\obj\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.dll
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\obj\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.pdb
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\obj\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.csprojAssemblyReference.cache
