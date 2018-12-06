@@ -9,7 +9,7 @@ namespace WebAppTestPipelineUnitTest
         public void TestMethod1()
         {
             //
-            Assert.IsTrue(true);     
+            Assert.IsTrue(true);      
         }
         [TestMethod]
         public void TestMethod2()

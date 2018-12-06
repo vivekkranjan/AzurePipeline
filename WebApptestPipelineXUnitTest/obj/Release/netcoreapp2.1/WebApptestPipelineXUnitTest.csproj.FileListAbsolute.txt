@@ -1,0 +1,13 @@
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\bin\Release\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\bin\Release\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\bin\Release\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\bin\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.deps.json
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\bin\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.runtimeconfig.json
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\bin\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.runtimeconfig.dev.json
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\bin\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\bin\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.pdb
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\obj\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\obj\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.AssemblyInfoInputs.cache
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\obj\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.AssemblyInfo.cs
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\obj\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.dll
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebApptestPipelineXUnitTest\obj\Release\netcoreapp2.1\WebApptestPipelineXUnitTest.pdb
