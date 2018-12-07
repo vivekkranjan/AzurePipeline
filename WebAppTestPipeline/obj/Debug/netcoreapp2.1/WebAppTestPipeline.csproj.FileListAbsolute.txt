@@ -8,3 +8,4 @@ C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\obj\Debug\ne
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\obj\Debug\netcoreapp2.1\WebAppTestPipeline.AssemblyInfo.cs
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\obj\Debug\netcoreapp2.1\WebAppTestPipeline.dll
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\obj\Debug\netcoreapp2.1\WebAppTestPipeline.pdb
+C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipeline\obj\Debug\netcoreapp2.1\WebAppTestPipeline.csprojAssemblyReference.cache
