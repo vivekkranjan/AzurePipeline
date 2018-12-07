@@ -6,7 +6,6 @@ C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\Debug\netcoreapp2.1\WebAppTestPipelineUnitTest.runtimeconfig.dev.json
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\Debug\netcoreapp2.1\WebAppTestPipelineUnitTest.dll
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\bin\Debug\netcoreapp2.1\WebAppTestPipelineUnitTest.pdb
-C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\obj\Debug\netcoreapp2.1\WebAppTestPipelineUnitTest.csprojAssemblyReference.cache
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\obj\Debug\netcoreapp2.1\WebAppTestPipelineUnitTest.csproj.CoreCompileInputs.cache
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\obj\Debug\netcoreapp2.1\WebAppTestPipelineUnitTest.AssemblyInfoInputs.cache
 C:\Users\V786547\source\repos\WebAppTestPipeline\WebAppTestPipelineUnitTest\obj\Debug\netcoreapp2.1\WebAppTestPipelineUnitTest.AssemblyInfo.cs

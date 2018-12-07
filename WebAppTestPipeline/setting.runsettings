@@ -6,9 +6,9 @@
     <TargetPlatform>x64</TargetPlatform>
     <TargetFrameworkVersion>Framework45</TargetFrameworkVersion>
   </RunConfiguration>
-  
-  
-  
+
+
+
   <!-- Configurations for data collectors -->
   <DataCollectionRunSettings>
     <DataCollectors>
